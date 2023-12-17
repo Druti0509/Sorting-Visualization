@@ -1,0 +1,10 @@
+# Redirect domain aliases to primary domain
+https://sortvisualizers.com/* https://sort-visualizers.com/:splat 301!
+https://sorting-visualizers.com/* https://sort-visualizers.com/:splat 301!
+https://sortingvisualizers.com/* https://sort-visualizers.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://sort-visualizers.netlify.com/* https://sort-visualizers.com/:splat 301!
+
+# Delegate all requests to React Router 
+/*    /index.html   200
