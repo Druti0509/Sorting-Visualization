@@ -13,13 +13,12 @@ const Footer = (props) => {
           rel="noopener noreferrer"
           className="Footer__Link"
         >
-          Ramiz Rahman
+          Druti
         </a>
       </section>
 
       <section className="Footer__Items">
         <a
-          href="https://youtu.be/JFjvVmvC3pQ"
           target="_blank"
           rel="noopener noreferrer"
           className="Footer__Link"
@@ -27,7 +26,7 @@ const Footer = (props) => {
           Demo
         </a>
         <a
-          href="https://github.com"
+          href="https://github.com/Druti0509/Sorting-Visualization"
           target="_blank"
           rel="noopener noreferrer"
           className="Footer__Link"
